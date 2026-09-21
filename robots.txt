@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gdtqz.cn/sitemap.xml
